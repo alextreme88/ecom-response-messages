@@ -1,0 +1,16 @@
+{
+  "name": "ecom-response-messages",
+  "version": "1.0.0",
+  "description": "vb ecommerce response messages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextreme88/ecom-response-messages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextreme88/ecom-response-messages/issues"
+  },
+  "homepage": "https://github.com/alextreme88/ecom-response-messages#readme"
+}
