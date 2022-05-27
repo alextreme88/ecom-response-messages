@@ -5,7 +5,6 @@
  * @param {!express:Response} res HTTP response context.
  */
 
-const functions = require('@google-cloud/functions-framework');
 const {Firestore} = require('@google-cloud/firestore')
 const firestore =  new Firestore()
 
